@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="tone_exercises">Упражнения для тонуса мышц</string>
+    <string name="gym_exercises_text">Упражнения для тренажерного зала</string>
+    <string name="workout_exercises_text">Упражнения для воркаута</string>
+    <string name="exit_menu_text">Выход</string>
+    <string name="back_menu_text">Назад</string>
+    <string name="nameTextViewHint">Название упражнения</string>
+    <string name="timeTextViewHint">Время выполнения</string>
+    <string name="startButtonText">Начать упражнение</string>
+</resources>
